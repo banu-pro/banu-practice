@@ -1,2 +1,2 @@
 # banu-practice
-this is a repo used for practice 
+this is a repo used for practice for interviews
